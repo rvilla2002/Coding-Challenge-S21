@@ -10,6 +10,6 @@ Sources used:
 Bipython Documentation : https://biopython.org/wiki/Documentation
 
 Libraries used:
-Bipython
-SeqIO Package
-Reportlab 
+Bipython,
+ SeqIO Package,
+ Reportlab 
