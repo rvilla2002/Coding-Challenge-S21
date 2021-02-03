@@ -1,6 +1,6 @@
 # ACM Research Coding Challenge (Spring 2021) - Rishi Villa
 
-
+![Screenshot](genome_map.png)
 
 Description of the Solution:
 
